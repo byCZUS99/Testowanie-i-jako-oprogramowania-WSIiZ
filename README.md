@@ -1,7 +1,7 @@
 #Automated UI Testing of WSIiZ Website (Selenium + Python + Pytest)
 Opis projektu
 
-Projekt przedstawia kompletny zestaw automatycznych testów interfejsu użytkownika dla oficjalnej strony internetowej Wyższej Szkoły Informatyki i Zarządzania w Rzeszowie — https://wsiz.edu.pl
+Projekt przedstawia kompletny zestaw automatycznych testów interfejsu użytkownika dla oficjalnej strony internetowej Wyższej Szkoły Informatyki i Zarządzania w Rzeszowie - https://wsiz.edu.pl
 .
 Testy zostały przygotowane w Pythonie przy użyciu bibliotek Selenium WebDriver, Pytest oraz standardowych narzędzi wspomagających automatyzację i analizę zachowania dynamicznych stron WWW
 .
